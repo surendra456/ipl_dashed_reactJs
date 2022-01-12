@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.latest-match-card {
+  background-color: #1e293b;
+  width: -webkit-fill-available;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.competing-head {
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.date {
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.venue {
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.result {
+  color: #ffffff;
+  font-family: 'bree serif';
+}
+.competing-logo {
+  width: 20%;
+}
+.innings-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.first {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-weight: bold;
+  margin: 4px;
+}
+.first-r {
+  color: #ffffff;
+  font-family: 'bree serif';
+}
